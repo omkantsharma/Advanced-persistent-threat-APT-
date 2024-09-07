@@ -1,0 +1,61 @@
+Advance Persistence Threats -
+
+----------------------------------------------------------------------------------------------------------
+Advanced Persistent Threat (APT) refers to a prolonged and sophisticated cyber attack in which an attacker gains unauthorized access to a network and remains undetected for an extended period. APTs are typically characterized by their:
+
+Advanced Techniques: Attackers use advanced tools and methods to exploit vulnerabilities, including zero-day exploits, custom malware, and social engineering techniques.
+
+1) network infiltration,
+The attacker gains unauthorized access to the target's network, often using vulnerabilities or social engineering.
+ 
+2) the expansion of the attacker’s presence and 
+The attacker increases their control and access within the network, often by escalating privileges and spreading across systems.
+
+3) the extraction of amassed data—all without being detected.
+The attacker collects and exfiltrates valuable or sensitive data while evading detection throughout the process.
+
+-------------------------------------------------------------------------------------
+
+
+
+Persistent Efforts: Once inside, the attackers maintain their access through various means, such as installing backdoors, escalating privileges, and avoiding detection.
+
+Targeted Approach: APTs are often directed at specific organizations or individuals, usually with the intent of stealing sensitive data or intellectual property. Targets are often high-value, such as government agencies, large corporations, or critical infrastructure.
+
+Stealth and Evasion: The attackers employ stealth tactics to avoid detection by traditional security measures. This can include encryption, using legitimate channels to exfiltrate data, and continuously adapting their methods to bypass security updates.
+
+Long-Term Objectives: Unlike opportunistic attacks, APTs are driven by strategic goals, such as espionage, sabotage, or financial gain, and can last for months or even years.
+
+----------------------------------------------------------------------------------------------------------
+
+Zero-day exploits are attacks that exploit previously unknown vulnerabilities in software or hardware before a fix is available.
+
+Custom malware refers to malicious software specifically designed or modified to target a particular system, organization, or individual, often evading standard detection methods.
+
+Social engineering techniques are manipulative tactics used to deceive and influence individuals into revealing confidential information or performing actions that compromise security, often bypassing technical security measures.
+---------------------------------------------------------------------------------------------------------
+
+Installing backdoors - means secretly adding hidden access points in a system, allowing unauthorized users to bypass security measures and control the system remotely.
+
+Escalating privileges - refers to gaining higher access rights in a system than initially granted, often by exploiting vulnerabilities, to perform unauthorized actions.
+
+Avoiding detection -  refers to techniques used by attackers to conceal their activities or presence within a system to evade security measures and remain unnoticed.
+
+
+Espionage is the act of covertly gathering confidential or sensitive information, usually for political, military, or economic gain.
+
+----------------------------------------------------------------------------------------------------------
+
+
+Legitimate channels refer to authorized and recognized methods or pathways used to conduct official or lawful activities.
+
+
+Exfiltrating data means illegally transferring or stealing data from a system or network without authorization.
+
+
+Bypassing security updates means evading or ignoring patches or upgrades designed to fix vulnerabilities and improve system security.
+
+---------------------------------------------------------------------------------------------------------
+
+
+
